@@ -13,7 +13,7 @@ class MuhammadFuzail:
             "Python",
             "Digital Logic Design",
         ]
-        self.goal       = "Software Engineer"
+        self.goal       = "AI & Machine Learning Engineer"
 
     def current_focus(self):
         return "Building strong DSA foundations and real-world projects."
