@@ -75,29 +75,36 @@ focus = {
 
 ---
 
-## 🧩 LeetCode Stats
+## 🧩 LeetCode Progress
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/muhammad_fuzail?theme=dark&font=Fira%20Code&ext=heatmap&border=0" width="55%"/>
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-muhammad__fuzail-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/muhammad_fuzail)
+
+| 🟢 Easy | 🟡 Medium | 🔴 Hard | ⭐ Total |
+|--------|----------|--------|--------|
+| Solving... | Solving... | Coming Soon | Growing Daily |
+
+> 💪 **"Grinding LeetCode daily — consistency is the key!"**
+
 </div>
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| 🧩 [C Programming Practice](https://github.com/muhammadfuzail-dev/c-programming-practice) | Arrays, Pointers, File I/O — Core C concepts | C |
-| 🤖 DSA Solutions *(coming soon)* | Daily LeetCode solutions | C++ |
-| 🧠 ML Projects *(coming soon)* | Machine Learning experiments | Python |
-
----
-
-## 🐍 Contribution Snake
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/muhammadfuzail-dev/muhammadfuzail-dev/output/github-snake-dark.svg" alt="snake animation"/>
+
+| 🏷️ Project | 📝 About | 🛠️ Stack | 🔗 Link |
+|-----------|---------|---------|--------|
+| 📚 **C Programming Practice** | Arrays, Pointers, Loops & File I/O | `C` | [View →](https://github.com/muhammadfuzail-dev/c-programming-practice) |
+| 🧩 **DSA Solutions** | Daily LeetCode grind in C++ | `C++` | 🔨 Building... |
+| 🤖 **ML Mini Projects** | Beginner ML experiments | `Python` | 🔨 Building... |
+| 🌐 **Portfolio Website** | My personal dev portfolio | `HTML/CSS` | 🔨 Building... |
+
 </div>
+
+> 🌱 *More projects dropping soon — watch this space!*
 
 ---
 
