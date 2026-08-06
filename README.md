@@ -1,24 +1,18 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,30:0ea5e9,70:7c3aed,100:0f172a&height=220&section=header&text=Muhammad%20Fuzail&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=🤖%20AI%20%26%20Deep%20Learning%20Engineer%20in%20Progress&descAlignY=58&descSize=17&descColor=94e2ff"/>
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Muhammad+Fuzail&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI+%26+Deep+Learning+Engineer+in+Progress&descAlignY=58&descSize=16&descColor=fff)
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&pause=1000&color=0EA5E9&center=true&vCenter=true&width=620&lines=Future+AI+%26+Deep+Learning+Engineer+%F0%9F%A4%96;Machine+Learning+%7C+Neural+Networks+%F0%9F%A7%A0;DSA+Grinder+%7C+LeetCode+Warrior+%F0%9F%92%BB;PUCIT+CS+Student+%7C+Pakistan+%F0%9F%87%B5%F0%9F%87%B0;Building+From+Zero+to+Hero+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=0EA5E9&center=true&vCenter=true&multiline=false&width=650&height=45&lines=🚀+Future+AI+%26+Deep+Learning+Engineer;🧠+Machine+Learning+%7C+Neural+Networks;💻+DSA+Grinder+%7C+LeetCode+Warrior;🌱+PUCIT+CS+Student+%7C+Pakistan+🇵🇰;⚡+Building+From+Zero+to+Hero" alt="Typing SVG"/>
-</a>
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="360"/>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="380"/>
-
-<br/>
-
-<p>
-  <img src="https://img.shields.io/badge/Focus-Artificial%20Intelligence-0ea5e9?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Passion-Deep%20Learning-7c3aed?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Status-Learning%20%26%20Building-22c55e?style=flat-square&logoColor=white"/>
-</p>
+<img src="https://img.shields.io/badge/Focus-Artificial%20Intelligence-0ea5e9?style=flat-square"/>
+<img src="https://img.shields.io/badge/Passion-Deep%20Learning-7c3aed?style=flat-square"/>
+<img src="https://img.shields.io/badge/Status-Learning%20%26%20Building-22c55e?style=flat-square"/>
 
 </div>
 
