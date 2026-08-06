@@ -1,8 +1,24 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:7c3aed,100:0ea5e9&height=200&section=header&text=Muhammad%20Fuzail&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20in%20Progress%20%7C%20PUCIT%20%7C%20Pakistan%20%F0%9F%87%B5%F0%9F%87%B0&descAlignY=58&descSize=15"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0ea5e9,50:7c3aed,100:0f172a&height=220&section=header&text=Muhammad%20Fuzail&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=🤖%20AI%20%26%20Deep%20Learning%20Engineer%20in%20Progress&descAlignY=58&descSize=17&descColor=94e2ff&stroke=0ea5e9&strokeWidth=2"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=🚀+AI+%26+Machine+Learning+Engineer;💻+Competitive+Programmer+%7C+LeetCode+Grinder;🤖+Deep+Learning+Enthusiast;🌱+Building+From+Zero+to+Hero)](https://git.io/typing-svg)
+<br/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=0EA5E9&center=true&vCenter=true&multiline=false&width=650&height=45&lines=🚀+Future+AI+%26+Deep+Learning+Engineer;🧠+Machine+Learning+%7C+Neural+Networks;💻+DSA+Grinder+%7C+LeetCode+Warrior;🌱+PUCIT+CS+Student+%7C+Pakistan+🇵🇰;⚡+Building+From+Zero+to+Hero" alt="Typing SVG"/>
+</a>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="380"/>
+
+<br/>
+
+<p>
+  <img src="https://img.shields.io/badge/Focus-Artificial%20Intelligence-0ea5e9?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Passion-Deep%20Learning-7c3aed?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Status-Learning%20%26%20Building-22c55e?style=flat-square&logoColor=white"/>
+</p>
 
 </div>
 
@@ -75,20 +91,6 @@ focus = {
 
 ---
 
-## 📈 Profile Summary
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammadfuzail-dev&theme=tokyonight" width="90%"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muhammadfuzail-dev&theme=tokyonight" width="32%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=muhammadfuzail-dev&theme=tokyonight" width="32%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=muhammadfuzail-dev&theme=tokyonight&utcOffset=5" width="32%"/>
-</div>
-
----
-
 ## 🐍 Contribution Snake
 
 <div align="center">
@@ -127,14 +129,6 @@ focus = {
 </div>
 
 > 🌱 *More projects dropping soon — watch this space!*
-
----
-
-## 💡 Dev Quote of the Day
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%"/>
-</div>
 
 ---
 
