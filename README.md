@@ -75,6 +75,14 @@ focus = {
 
 ---
 
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/muhammadfuzail-dev/muhammadfuzail-dev/output/github-snake-dark.svg"/>
+</div>
+
+---
+
 ## 🧩 LeetCode Progress
 
 <div align="center">
