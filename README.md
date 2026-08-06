@@ -75,10 +75,25 @@ focus = {
 
 ---
 
+## 📈 Profile Summary
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammadfuzail-dev&theme=tokyonight" width="90%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muhammadfuzail-dev&theme=tokyonight" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=muhammadfuzail-dev&theme=tokyonight" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=muhammadfuzail-dev&theme=tokyonight&utcOffset=5" width="32%"/>
+</div>
+
+---
+
 ## 🐍 Contribution Snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/muhammadfuzail-dev/muhammadfuzail-dev/output/github-contribution-grid-snake.svg"/></div>
+  <img src="https://raw.githubusercontent.com/muhammadfuzail-dev/muhammadfuzail-dev/output/github-contribution-grid-snake.svg"/>
+</div>
 
 ---
 
@@ -115,6 +130,14 @@ focus = {
 
 ---
 
+## 💡 Dev Quote of the Day
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%"/>
+</div>
+
+---
+
 ## 🌐 Connect With Me
 
 <div align="center">
@@ -126,6 +149,22 @@ focus = {
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fuzailmaseed3@gmail.com)
 
 </div>
+
+---
+
+<details>
+<summary>⚡ More About Me — Click to Expand</summary>
+
+<br>
+
+- 🔭 Currently building my **DSA & AI project portfolio**
+- 🌱 Learning **Machine Learning** from scratch
+- 💬 Ask me about **C, C++, Python, DSA**
+- ⚡ Fun fact: **I debug with printf() and I am proud of it 😄**
+- 🎯 2026 Goal: **Solve 300+ LeetCode problems**
+- 🇵🇰 Proud Pakistani developer!
+
+</details>
 
 ---
 
