@@ -32,10 +32,10 @@ Computer Science student at **PUCIT, University of the Punjab** 🇵🇰 with a 
 
 ```python
 focus = {
-    "daily"   : "LeetCode DSA Problems",
-    "learning": ["Machine Learning", "Deep Learning", "C++ STL"],
-    "building": "AI & Algorithmic Projects",
-    "goal"    : "AI / ML Engineer 🤖"
+    "daily"    : "LeetCode DSA Problems",
+    "learning" : ["Machine Learning", "Deep Learning", "C++ STL"],
+    "building" : "AI & Algorithmic Projects",
+    "goal"     : "AI / ML Engineer 🤖"
 }
 ```
 
@@ -71,16 +71,14 @@ focus = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammadfuzail-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadfuzail-dev&layout=compact&theme=tokyonight&hide_border=true" width="36%"/>
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadfuzail-dev&theme=tokyonight&hide_border=true" width="60%"/>
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=muhammadfuzail-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadfuzail-dev&layout=compact&theme=tokyonight&hide_border=true" width="36%"/>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadfuzail-dev&theme=tokyo-night&hide_border=true&area=true" width="90%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadfuzail-dev&theme=tokyonight&hide_border=true" width="60%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadfuzail-dev&theme=tokyo-night&hide_border=true&area=true" width="90%"/>
+
 </div>
 
 ---
@@ -100,7 +98,7 @@ focus = {
 [![LeetCode](https://img.shields.io/badge/LeetCode-muhammad__fuzail-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/muhammad_fuzail)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | ⭐ Total |
-|--------|----------|--------|--------|
+|:---:|:---:|:---:|:---:|
 | Solving... | Solving... | Coming Soon | Growing Daily |
 
 > 💪 **"Grinding LeetCode daily — consistency is the key!"**
@@ -114,7 +112,8 @@ focus = {
 <div align="center">
 
 | 🏷️ Project | 📝 About | 🛠️ Stack | 🔗 Link |
-|-----------|---------|---------|--------|
+|:---|:---|:---:|:---:|
+| 🕹️ **Void Trooper** | 2D platformer shooter — OOP architecture (Entity/Player/Enemy hierarchy, GameStateManager, Singleton AudioManager) | `C++` `SFML` | 🔨 Building... |
 | 📚 **C Programming Practice** | Arrays, Pointers, Loops & File I/O | `C` | [View →](https://github.com/muhammadfuzail-dev/c-programming-practice) |
 | 🧩 **DSA Solutions** | Daily LeetCode grind in C++ | `C++` | 🔨 Building... |
 | 🤖 **ML Mini Projects** | Beginner ML experiments | `Python` | 🔨 Building... |
@@ -142,7 +141,6 @@ focus = {
 
 <details>
 <summary>⚡ More About Me — Click to Expand</summary>
-
 <br>
 
 - 🔭 Currently building my **DSA & AI project portfolio**
