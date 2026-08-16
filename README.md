@@ -1,166 +1,131 @@
-<div align="center">
+div align="center">
 
-# Muhammad Fuzail
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-### Computer Science Student · AI/ML Enthusiast · Competitive Programmer
+<!-- HEADER -->
 
-Building a strong foundation in **Artificial Intelligence, Machine Learning,
-Deep Learning, Data Structures & Algorithms, and Software Development.**
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:6366f1,100:8b5cf6&height=220&section=header&text=Muhammad%20Fuzail&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Artificial%20Intelligence%20%7C%20Machine%20Learning%20%7C%20DSA&descAlignY=60&descSize=17&descColor=ffffff"/>
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/muhammadfuzail-dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/muhammad-fuzail-357693415)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square\&logo=leetcode\&logoColor=black)](https://leetcode.com/u/muhammad_fuzail)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square\&logo=instagram\&logoColor=white)](https://www.instagram.com/fuzail_atal)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=0EA5E9&center=true&vCenter=true&width=750&height=45&lines=Computer+Science+Student+%7C+PUCIT;Artificial+Intelligence+%26+Machine+Learning;Data+Structures+%26+Algorithms;C%2B%2B+%7C+Python+%7C+OOP;Building+Projects+%7C+Solving+Problems;Learning+Something+New+Every+Day" alt="Typing SVG"/>
+
+<br><br>
+
+<a href="https://github.com/muhammadfuzail-dev">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://leetcode.com/u/muhammad_fuzail">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/muhammad-fuzail-357693415">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=muhammadfuzail-dev&label=Profile%20Views&color=0ea5e9&style=flat-square"/>
 
 </div>
 
----
+👨‍💻 About Me
 
-## About
+<table>
+<tr>
+<td width="55%">
 
-I'm a **Computer Science student at PUCIT, University of the Punjab**, interested in understanding how software systems and intelligent systems work from the fundamentals upward.
+I'm Muhammad Fuzail, a Computer Science student at PUCIT, University of the Punjab with a strong interest in Artificial Intelligence, Machine Learning, Deep Learning, and Competitive Programming.
 
-My current learning path combines:
+I enjoy understanding concepts from the fundamentals, solving algorithmic problems, and turning what I learn into practical projects.
 
-* **Data Structures & Algorithms**
-* **Competitive Programming**
-* **Machine Learning**
-* **Deep Learning**
-* **C++ & Python**
-* **Software Engineering fundamentals**
+My current journey is focused on building strong foundations in C++, Python, DSA, Mathematics, Machine Learning, and Software Development.
 
-I prefer learning by building, solving problems, and understanding the underlying concepts rather than simply using libraries without understanding them.
+</td>
 
-```text
-Location       Lahore, Pakistan
-Education      BS Computer Science — PUCIT
-Primary Focus  Artificial Intelligence & Machine Learning
-Problem Solving C++ / DSA / LeetCode
-```
+<td width="45%">
 
----
+╔══════════════════════════════╗
+║        CURRENT PROFILE       ║
+╠══════════════════════════════╣
+║ 🎓 PUCIT                    ║
+║ 💻 Computer Science         ║
+║ 🤖 AI / Machine Learning    ║
+║ 🧠 DSA & Problem Solving    ║
+║ ⚙️ C++ / Python             ║
+║ 🐧 Linux                    ║
+║ 📍 Pakistan                 ║
+╚══════════════════════════════╝
 
-## Current Focus
+</td>
+</tr>
+</table>
 
-```text
+🎯 Current Focus
+
+<div align="center">
+
+🧠 Area
+
+🔎 Current Work
+
 DSA
-├── Data Structures
-├── Algorithms
-├── C++ STL
-└── Competitive Programming
 
-Artificial Intelligence
-├── Python
-├── NumPy
-├── Machine Learning
-├── Neural Networks
-└── Deep Learning
+Data Structures, Algorithms, C++ STL
 
-Software Development
-├── C++
-├── OOP
-├── Git & GitHub
-└── Linux
-```
+Problem Solving
 
----
+LeetCode & algorithmic challenges
 
-## Tech Stack
+AI / ML
 
-### Languages
+Machine Learning fundamentals
 
-<p>
-<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-</p>
+Deep Learning
 
-### AI / Machine Learning
+Neural Networks & model fundamentals
 
-<p>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-</p>
+Programming
 
-### Development Tools
+C++ / Python
 
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
-</p>
+Development
 
----
+OOP, Git, GitHub & Linux
 
-## Featured Projects
+</div>
 
-### Void Trooper
+⚡ Tech Stack
 
-**2D platform shooter built with C++ and SFML**
+<div align="center">
 
-A larger OOP-based game project focused on object-oriented architecture and game-state management.
+Languages
 
-**Key concepts:**
+<img src="https://skillicons.dev/icons?i=c,cpp,python" />
 
-* Entity / Player / Enemy hierarchy
-* Polymorphism
-* Game State Manager
-* Singleton-based Audio Manager
-* Weapon hierarchy
-* Enemy hierarchy
-* Level management
-* Tile-based collision detection
-* Gravity and projectile physics
+<br><br>
 
-**Stack:** `C++` `SFML` `OOP`
+AI / Machine Learning
 
----
+<img src="https://skillicons.dev/icons?i=python,tensorflow" />
 
-### DSA Solutions
+<br><br>
 
-A growing collection of **Data Structures & Algorithms** solutions written primarily in C++.
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 
-**Topics include:**
+<br><br>
 
-* Arrays
-* Strings
-* Linked Lists
-* Stacks & Queues
-* Recursion
-* Sorting
-* Searching
-* Trees
-* Graphs
-* Dynamic Programming
+Development
 
-**Platform:** LeetCode
-**Language:** C++
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
 
----
+</div>
 
-### C Programming Practice
-
-Fundamental C programming exercises covering core programming concepts.
-
-**Topics:**
-
-* Variables & operators
-* Control flow
-* Functions
-* Arrays
-* Pointers
-* File handling
-* Memory concepts
-
-**Stack:** `C`
-
----
-
-## Problem Solving
+🧩 Problem Solving
 
 <div align="center">
 
@@ -172,94 +137,242 @@ Fundamental C programming exercises covering core programming concepts.
 
 <br><br>
 
-**Currently improving problem-solving skills through consistent DSA practice.**
+<table>
+<tr>
+<td align="center">
 
-</div>
+🟢 Easy
 
----
+Growing
 
-## GitHub Activity
+</td>
+<td align="center">
 
-<div align="center">
+🟡 Medium
 
-<img src="https://github-readme-stats.vercel.app/api?username=muhammadfuzail-dev&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true" width="48%"/>
+Growing
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadfuzail-dev&layout=compact&theme=transparent&hide_border=true" width="38%"/>
+</td>
+<td align="center">
 
-<br><br>
+🔴 Hard
 
-<img src="https://streak-stats.demolab.com?user=muhammadfuzail-dev&theme=transparent&hide_border=true" width="55%"/>
+Comming Soon
 
-</div>
+</td>
+<td align="center">
 
----
+⭐ Goal
 
-## Learning Roadmap
+300+
 
-```text
-                    COMPUTER SCIENCE
-                           │
-             ┌─────────────┴─────────────┐
-             │                           │
-          SOFTWARE                     AI / ML
-             │                           │
-       ┌─────┴─────┐              ┌─────┴─────┐
-       │           │              │           │
-      C++         OOP           Python      Math
-       │           │              │           │
-      DSA      Architecture     NumPy     Statistics
-       │                          │
- Algorithms                  Machine Learning
-       │                          │
- Competitive                Deep Learning
- Programming                     │
-                                  │
-                             Neural Networks
-```
-
----
-
-## What I'm Working Toward
-
-My long-term objective is to become a strong **AI/ML engineer** with solid software engineering and algorithmic foundations.
-
-Rather than rushing through technologies, I'm focusing on building depth in:
-
-> **Programming → DSA → Mathematics → Machine Learning → Deep Learning → AI Systems**
-
----
-
-## Beyond the Code
-
-I believe good developers are built through consistency rather than short bursts of motivation.
-
-```cpp
-while (learning) {
-    study();
-    solve();
-    build();
-    fail();
-    understand();
-    improve();
-}
-```
-
----
-
-<div align="center">
-
-### Let's Connect
-
-If you're interested in **AI, Machine Learning, DSA, Competitive Programming, or software development**, feel free to connect.
+</td>
+</tr>
+</table>
 
 <br>
 
+Consistency over intensity. Understanding over memorization.
+
+</div>
+
+🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+🕹️ Void Trooper
+
+A 2D platform shooter developed using C++ and SFML, designed around object-oriented programming principles.
+
+Highlights
+
+Entity hierarchy
+
+Player / Enemy architecture
+
+Weapon polymorphism
+
+GameStateManager
+
+AudioManager Singleton
+
+Level management
+
+Collision detection
+
+Projectile physics
+
+C++ SFML OOP
+
+</td>
+
+<td width="50%">
+
+🧩 DSA Solutions
+
+A growing collection of algorithmic solutions written in C++ while practicing Data Structures & Algorithms.
+
+Topics
+
+Arrays
+
+Strings
+
+Linked Lists
+
+Recursion
+
+Searching
+
+Sorting
+
+Trees
+
+Graphs
+
+Dynamic Programming
+
+C++ DSA LeetCode
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+📚 C Programming Practice
+
+A collection of fundamental C programs created while strengthening programming fundamentals.
+
+Topics
+
+Loops
+
+Functions
+
+Arrays
+
+Pointers
+
+Memory
+
+File I/O
+
+C
+
+</td>
+
+<td width="50%">
+
+🤖 ML Experiments
+
+A collection of small experiments and projects created while learning Machine Learning and Artificial Intelligence.
+
+Focus
+
+Data preprocessing
+
+NumPy
+
+Machine Learning
+
+Model evaluation
+
+Neural Networks
+
+Python NumPy Scikit-Learn
+
+</td>
+</tr>
+</table>
+
+📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=muhammadfuzail-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadfuzail-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=muhammadfuzail-dev&theme=tokyonight&hide_border=true" width="60%"/>
+
+</div>
+
+📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadfuzail-dev&bg_color=0d1117&color=58a6ff&line=6366f1&point=ffffff&area=true&hide_border=true" width="95%"/>
+
+</div>
+
+🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/muhammadfuzail-dev/muhammadfuzail-dev/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+
+</div>
+
+🎓 Learning Philosophy
+
+<div align="center">
+
+Learn → Solve → Build → Fail → Understand → Improve
+
+<br>
+
+I don't want to simply collect technologies.
+
+I want to understand fundamentals deeply enough to build with them.
+
+</div>
+
+🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/muhammadfuzail-dev">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/muhammad-fuzail-357693415">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/muhammad_fuzail">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://www.instagram.com/fuzail_atal">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
 <a href="mailto:fuzailmaseed3@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=muhammadfuzail-dev&label=Profile%20Views&color=0ea5e9&style=flat-square"/>
+<img src="https://komarev.com/ghpvc/?username=muhammadfuzail-dev&label=Profile%20Views&color=0ea5e9&style=for-the-badge"/>
+
+</div>
+
+<div align="center">
+
+while (!success) {
+    learn();
+    solve();
+    build();
+    improve();
+}
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:6366f1,100:8b5cf6&height=120&section=footer"/>
 
 </div>
