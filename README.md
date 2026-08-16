@@ -1,171 +1,265 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Muhammad+Fuzail&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI+%26+Deep+Learning+Engineer+in+Progress&descAlignY=58&descSize=16&descColor=fff)
+# Muhammad Fuzail
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&pause=1000&color=0EA5E9&center=true&vCenter=true&width=620&lines=Future+AI+%26+Deep+Learning+Engineer;Machine+Learning+%7C+Neural+Networks;DSA+Grinder+%7C+LeetCode+Warrior;PUCIT+CS+Student+%7C+Pakistan;Building+From+Zero+to+Hero" alt="Typing SVG" />
+### Computer Science Student · AI/ML Enthusiast · Competitive Programmer
 
-<br/>
+Building a strong foundation in **Artificial Intelligence, Machine Learning,
+Deep Learning, Data Structures & Algorithms, and Software Development.**
 
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="360"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/Focus-Artificial%20Intelligence-0ea5e9?style=flat-square"/>
-<img src="https://img.shields.io/badge/Passion-Deep%20Learning-7c3aed?style=flat-square"/>
-<img src="https://img.shields.io/badge/Status-Learning%20%26%20Building-22c55e?style=flat-square"/>
-
-</div>
-
----
-
-## 👨‍💻 About Me
-
-Computer Science student at **PUCIT, University of the Punjab** 🇵🇰 with a strong passion for **Artificial Intelligence**, **Machine Learning**, and **Competitive Programming**. I enjoy solving challenging problems, building meaningful projects, and improving my skills — one commit at a time.
-
-```
-📍 Lahore, Pakistan     🎓 BS Computer Science     📧 fuzailmaseed3@gmail.com
-```
-
----
-
-## 🎯 Current Focus
-
-```python
-focus = {
-    "daily"    : "LeetCode DSA Problems",
-    "learning" : ["Machine Learning", "Deep Learning", "C++ STL"],
-    "building" : "AI & Algorithmic Projects",
-    "goal"     : "AI / ML Engineer 🤖"
-}
-```
-
----
-
-## ⚡ Tech Stack
-
-<div align="center">
-
-**Languages**
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-**AI / ML**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=muhammadfuzail-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadfuzail-dev&layout=compact&theme=tokyonight&hide_border=true" width="36%"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadfuzail-dev&theme=tokyonight&hide_border=true" width="60%"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadfuzail-dev&theme=tokyo-night&hide_border=true&area=true" width="90%"/>
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/muhammadfuzail-dev/muhammadfuzail-dev/output/github-contribution-grid-snake.svg"/>
-</div>
-
----
-
-## 🧩 LeetCode Progress
-
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-muhammad__fuzail-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/muhammad_fuzail)
-
-| 🟢 Easy | 🟡 Medium | 🔴 Hard | ⭐ Total |
-|:---:|:---:|:---:|:---:|
-| Solving... | Solving... | Coming Soon | Growing Daily |
-
-> 💪 **"Grinding LeetCode daily — consistency is the key!"**
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-| 🏷️ Project | 📝 About | 🛠️ Stack | 🔗 Link |
-|:---|:---|:---:|:---:|
-| 🕹️ **Void Trooper** | 2D platformer shooter — OOP architecture (Entity/Player/Enemy hierarchy, GameStateManager, Singleton AudioManager) | `C++` `SFML` | 🔨 Building... |
-| 📚 **C Programming Practice** | Arrays, Pointers, Loops & File I/O | `C` | [View →](https://github.com/muhammadfuzail-dev/c-programming-practice) |
-| 🧩 **DSA Solutions** | Daily LeetCode grind in C++ | `C++` | 🔨 Building... |
-| 🤖 **ML Mini Projects** | Beginner ML experiments | `Python` | 🔨 Building... |
-| 🌐 **Portfolio Website** | My personal dev portfolio | `HTML/CSS` | 🔨 Building... |
-
-</div>
-
-> 🌱 *More projects dropping soon — watch this space!*
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-fuzail-357693415)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muhammadfuzail-dev)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/muhammad_fuzail)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fuzail_atal)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fuzailmaseed3@gmail.com)
-
-</div>
-
----
-
-<details>
-<summary>⚡ More About Me — Click to Expand</summary>
 <br>
 
-- 🔭 Currently building my **DSA & AI project portfolio**
-- 🌱 Learning **Machine Learning** from scratch
-- 💬 Ask me about **C, C++, Python, DSA**
-- ⚡ Fun fact: **I debug with printf() and I am proud of it 😄**
-- 🎯 2026 Goal: **Solve 300+ LeetCode problems**
-- 🇵🇰 Proud Pakistani developer!
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/muhammadfuzail-dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/muhammad-fuzail-357693415)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square\&logo=leetcode\&logoColor=black)](https://leetcode.com/u/muhammad_fuzail)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square\&logo=instagram\&logoColor=white)](https://www.instagram.com/fuzail_atal)
 
-</details>
+</div>
 
 ---
 
+## About
+
+I'm a **Computer Science student at PUCIT, University of the Punjab**, interested in understanding how software systems and intelligent systems work from the fundamentals upward.
+
+My current learning path combines:
+
+* **Data Structures & Algorithms**
+* **Competitive Programming**
+* **Machine Learning**
+* **Deep Learning**
+* **C++ & Python**
+* **Software Engineering fundamentals**
+
+I prefer learning by building, solving problems, and understanding the underlying concepts rather than simply using libraries without understanding them.
+
+```text
+Location       Lahore, Pakistan
+Education      BS Computer Science — PUCIT
+Primary Focus  Artificial Intelligence & Machine Learning
+Problem Solving C++ / DSA / LeetCode
+```
+
+---
+
+## Current Focus
+
+```text
+DSA
+├── Data Structures
+├── Algorithms
+├── C++ STL
+└── Competitive Programming
+
+Artificial Intelligence
+├── Python
+├── NumPy
+├── Machine Learning
+├── Neural Networks
+└── Deep Learning
+
+Software Development
+├── C++
+├── OOP
+├── Git & GitHub
+└── Linux
+```
+
+---
+
+## Tech Stack
+
+### Languages
+
+<p>
+<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+</p>
+
+### AI / Machine Learning
+
+<p>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+</p>
+
+### Development Tools
+
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
+</p>
+
+---
+
+## Featured Projects
+
+### Void Trooper
+
+**2D platform shooter built with C++ and SFML**
+
+A larger OOP-based game project focused on object-oriented architecture and game-state management.
+
+**Key concepts:**
+
+* Entity / Player / Enemy hierarchy
+* Polymorphism
+* Game State Manager
+* Singleton-based Audio Manager
+* Weapon hierarchy
+* Enemy hierarchy
+* Level management
+* Tile-based collision detection
+* Gravity and projectile physics
+
+**Stack:** `C++` `SFML` `OOP`
+
+---
+
+### DSA Solutions
+
+A growing collection of **Data Structures & Algorithms** solutions written primarily in C++.
+
+**Topics include:**
+
+* Arrays
+* Strings
+* Linked Lists
+* Stacks & Queues
+* Recursion
+* Sorting
+* Searching
+* Trees
+* Graphs
+* Dynamic Programming
+
+**Platform:** LeetCode
+**Language:** C++
+
+---
+
+### C Programming Practice
+
+Fundamental C programming exercises covering core programming concepts.
+
+**Topics:**
+
+* Variables & operators
+* Control flow
+* Functions
+* Arrays
+* Pointers
+* File handling
+* Memory concepts
+
+**Stack:** `C`
+
+---
+
+## Problem Solving
+
 <div align="center">
 
+<a href="https://leetcode.com/u/muhammad_fuzail">
+
+<img src="https://img.shields.io/badge/LeetCode-muhammad__fuzail-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+
+</a>
+
+<br><br>
+
+**Currently improving problem-solving skills through consistent DSA practice.**
+
+</div>
+
+---
+
+## GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=muhammadfuzail-dev&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true" width="48%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadfuzail-dev&layout=compact&theme=transparent&hide_border=true" width="38%"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=muhammadfuzail-dev&theme=transparent&hide_border=true" width="55%"/>
+
+</div>
+
+---
+
+## Learning Roadmap
+
+```text
+                    COMPUTER SCIENCE
+                           │
+             ┌─────────────┴─────────────┐
+             │                           │
+          SOFTWARE                     AI / ML
+             │                           │
+       ┌─────┴─────┐              ┌─────┴─────┐
+       │           │              │           │
+      C++         OOP           Python      Math
+       │           │              │           │
+      DSA      Architecture     NumPy     Statistics
+       │                          │
+ Algorithms                  Machine Learning
+       │                          │
+ Competitive                Deep Learning
+ Programming                     │
+                                  │
+                             Neural Networks
 ```
-while (!success) {
-    learn();
+
+---
+
+## What I'm Working Toward
+
+My long-term objective is to become a strong **AI/ML engineer** with solid software engineering and algorithmic foundations.
+
+Rather than rushing through technologies, I'm focusing on building depth in:
+
+> **Programming → DSA → Mathematics → Machine Learning → Deep Learning → AI Systems**
+
+---
+
+## Beyond the Code
+
+I believe good developers are built through consistency rather than short bursts of motivation.
+
+```cpp
+while (learning) {
+    study();
+    solve();
     build();
+    fail();
+    understand();
     improve();
 }
 ```
 
-<img src="https://komarev.com/ghpvc/?username=muhammadfuzail-dev&label=Profile+Views&color=0ea5e9&style=for-the-badge"/>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:7c3aed,100:0ea5e9&height=100&section=footer"/>
+<div align="center">
+
+### Let's Connect
+
+If you're interested in **AI, Machine Learning, DSA, Competitive Programming, or software development**, feel free to connect.
+
+<br>
+
+<a href="mailto:fuzailmaseed3@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=muhammadfuzail-dev&label=Profile%20Views&color=0ea5e9&style=flat-square"/>
 
 </div>
